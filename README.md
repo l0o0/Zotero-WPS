@@ -58,3 +58,18 @@ https://github.com/zotero/zotero-google-docs-integration
 libreoffice的zotero插件
 
 office的zotero插件
+
+wps-javascript宏相关
+wps开放平台，linux-wps支持javascript
+https://open.wps.cn/docs/client/wpsLoad
+
+wps二次开发官方代码库
+https://code.aliyun.com/zouyingfeng/wps/tree/master
+
+wps-javascript宏教程
+https://www.kancloud.cn/pwedu/wps-js-macros/2259283
+
+wps二次开发官方知乎专栏-张孝明
+https://zhuanlan.zhihu.com/c_1256350603921915904
+
+
