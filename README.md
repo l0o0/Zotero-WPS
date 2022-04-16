@@ -10,18 +10,25 @@
 
 1，文献管理软件
 zotero
+
 开源，多平台win/linux/mac，非常好用，有libreoffice、ms-office插件
+
 https://www.zotero.org/
+
 noteexpress
+
 国产文献管理软件，非常好用，有office和wps插件，但是只能在win下使用，没有linux和mac版本
+
 http://www.inoteexpress.com/aegean/
 
 2，不同平台的管理和撰写论文的软件组合
 win平台：zotero+office，noteexpress+office/wps
+
 linux平台：zotero+libreoffice，但是libreoffice非常难用，比wps差远了
+
 mac平台：不熟悉
 
-3，为啥用户自己开发zotero-wps插件
+3，为啥zotero用户自己开发zotero-wps插件
 不论是在win和linux平台，wps都非常好用，在linux下几乎是唯一选择，libreoffice太难用了；但是wps官方一直不愿意开发zotero-wps插件，已经通过各种方式联系wps官方，他们明确回答没有开发插件的计划；zotero愿意开发，但是看不懂wps的接口中文文档。。。
 
 4，如何开发zotero-wps插件
@@ -33,15 +40,19 @@ zotero插件说明
 https://www.zotero.org/support/plugins#word_processor_and_writing_integration
 
 Zotero translator关于wps插件的讨论
+
 https://github.com/l0o0/translators_CN/issues/43
 
 zotero论坛关于wps插件的讨论
+
 https://forums.zotero.org/discussion/comment/405041
+
 https://forums.zotero.org/discussion/comment/405024
 
 可以参考的对象
 
 google docs的zotero插件
+
 https://github.com/zotero/zotero-google-docs-integration
 
 libreoffice的zotero插件
