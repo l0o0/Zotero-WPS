@@ -1,11 +1,13 @@
 # Zotero-WPS
 
 项目简介：
+
 大家好，该项目的主要目标是给wps创建一个zotero插件。Zotero是一个很好的文献管理软件，开源而且多平台：win/linux/mac，wps同样多平台：win/linux/mac。在linux平台下，wps是最好的办公文档编辑软件，zotero是最好的文献管理软件，但是一直缺乏wps的zotero插件，限制了两者在linux平台下的使用。项目的最主要目标就是解决linux/win平台下，wps和zotero协同使用的问题。
 
 我们主要是生物医学背景的zotero用户，亟需一个wps的zotero插件，对编程并不熟悉，但是我们希望通过这个项目把大家的力量汇集起来，先弄一个最简单的可以使用的wps的zotero插件。zotero-wps插件开发的交流QQ群：10297751161，特别欢迎对javascript熟悉的同学加入。
 
 项目背景：
+
 1，文献管理软件
 zotero
 开源，多平台win/linux/mac，非常好用，有libreoffice、ms-office插件
@@ -25,4 +27,23 @@ mac平台：不熟悉
 4，如何开发zotero-wps插件
 wps支持vba和javascript，vba只能在win上使用，所以zotero-wps插件的唯一选择是javascript；特别幸运的是，wps-linux已经可以支持javascript；因此，项目的最主要目标就是让javascript开发的zotero-wps插件在linux/win-wps上运行。
 
-相关的参考材料：
+相关的讨论
+
+zotero插件说明
+https://www.zotero.org/support/plugins#word_processor_and_writing_integration
+
+Zotero translator关于wps插件的讨论
+https://github.com/l0o0/translators_CN/issues/43
+
+zotero论坛关于wps插件的讨论
+https://forums.zotero.org/discussion/comment/405041
+https://forums.zotero.org/discussion/comment/405024
+
+可以参考的对象
+
+google docs的zotero插件
+https://github.com/zotero/zotero-google-docs-integration
+
+libreoffice的zotero插件
+
+office的zotero插件
