@@ -45,9 +45,8 @@ https://forums.zotero.org/discussion/comment/405024
 google docs的zotero插件
 https://github.com/zotero/zotero-google-docs-integration
 
-libreoffice的zotero插件
-
-office的zotero插件
+libreoffice的zotero插件和office的zotero插件
+https://www.zotero.org/support/word_processor_integration
 
 wps-javascript宏相关
 
