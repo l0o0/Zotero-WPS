@@ -29,6 +29,19 @@ mac平台：不熟悉
 wps支持vba和javascript，vba只能在win上使用，所以zotero-wps插件的唯一选择是javascript；特别幸运的是，wps-linux已经可以支持javascript；因此，项目的最主要目标就是让javascript开发的zotero-wps插件在linux/win-wps上运行。
 
 相关的讨论
+google-doc、openoffice、win word的3个zotero插件中，貌似最有参考价值的是zotero的win word插件。
+win-word-zotero插件的开发项目github
+https://github.com/zotero/zotero-word-for-windows-integration/
+win-word-zotero插件
+https://github.com/zotero/zotero-word-for-windows-integration/raw/master/install/Zotero.dotm
+手动安装Zotero文字处理器插件
+https://www.zotero.org/support/word_processor_plugin_manual_installation
+Word Processor Plugin Troubleshooting
+https://www.zotero.org/support/word_processor_plugin_troubleshooting
+Using the Zotero Word Plugin
+https://www.zotero.org/support/word_processor_plugin_usage
+
+
 
 zotero插件说明
 https://www.zotero.org/support/plugins#word_processor_and_writing_integration
