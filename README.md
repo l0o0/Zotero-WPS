@@ -6,6 +6,9 @@
 
 我们主要是生物医学背景的zotero用户，亟需一个wps的zotero插件，对编程并不熟悉，但是我们希望通过这个项目把大家的力量汇集起来，先弄一个最简单的可以使用的wps的zotero插件。zotero-wps插件开发的交流QQ群：1029775161，欢迎对linux-wps-zotero插件感兴趣的同学加入，会一点javascript就更好了。
 
+ZOTERO-WPS的UI设计已完成：
+https://github.com/tughv/zoterowps
+
 项目背景
 
 1，文献管理软件
