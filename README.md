@@ -23,7 +23,7 @@ http://www.inoteexpress.com/aegean/
 2，不同平台的管理和撰写论文的软件组合
 win平台：zotero+office，noteexpress+office/wps
 linux平台：zotero+libreoffice，但是libreoffice非常难用，比wps差远了
-mac平台：不熟悉
+mac平台：zotero+office
 
 3，为啥zotero用户自己开发zotero-wps插件
 不论是在win和linux平台，wps都非常好用，在linux下几乎是唯一选择，libreoffice太难用了；但是wps官方一直不愿意开发zotero-wps插件，已经通过各种方式联系wps官方，他们明确回答没有开发插件的计划；zotero愿意开发，但是看不懂wps的接口中文文档。。。
