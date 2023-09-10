@@ -2,12 +2,10 @@
 
 项目简介
 
-
-
-大家好，该项目的主要目标是给wps创建一个zotero插件。Zotero是一个很好的文献管理软件，开源而且多平台：win/linux/mac，wps同样多平台：win/linux/mac。在linux平台下，wps是最好的办公文档编辑软件，zotero是最好的文献管理软件，但是一直缺乏wps的zotero插件，限制了两者在linux平台下的使用。项目的最主要目标就是解决linux/win平台下，wps和zotero协同使用的问题。
-
 重要更新：
 2023/09/10————已经有可以用的linux wps的zotero的插件了，网址：https://github.com/tankwyn/WPS-Zotero
+
+大家好，该项目的主要目标是给wps创建一个zotero插件。Zotero是一个很好的文献管理软件，开源而且多平台：win/linux/mac，wps同样多平台：win/linux/mac。在linux平台下，wps是最好的办公文档编辑软件，zotero是最好的文献管理软件，但是一直缺乏wps的zotero插件，限制了两者在linux平台下的使用。项目的最主要目标就是解决linux/win平台下，wps和zotero协同使用的问题。
 
 我们主要是生物医学背景的zotero用户，亟需一个wps的zotero插件，对编程并不熟悉，但是我们希望通过这个项目把大家的力量汇集起来，先弄一个最简单的可以使用的wps的zotero插件。zotero-wps插件开发的交流QQ群：1029775161，欢迎对linux-wps-zotero插件感兴趣的同学加入，会一点javascript就更好了。
 
