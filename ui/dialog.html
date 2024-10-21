@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+</head>
+<script type="text/javascript" src="../js/util.js"></script>
+<script type="text/javascript" src="../js/dialog.js"></script>
+<script type="text/javascript" src="../.debugTemp/wpsjsrpcsdk.js"></script>
+
+<body>
+    <div class="global">
+        <div class="divItem">
+            这是一个网页，按<span style="font-weight: bolder;">"F12"</span>可以打开调试器。
+        </div>
+        <div class="divItem">
+            这个示例展示了wps加载项的相关基础能力，与B/S业务系统的交互，请用浏览器打开：
+            <span style="font-weight: bolder;color: slateblue;cursor:pointer" id="DemoSpan"
+                onclick="shellExecuteByOAAssist(this.innerHTML)"></span>
+        </div>
+        <div class="divItem">开发文档: <span style="font-weight: bolder;color: slateblue;cursor:pointer"
+                onclick="shellExecuteByOAAssist(this.innerHTML)">https://open.wps.cn/docs/office</span></div>
+        <hr>
+        <div class="divItem">
+            <button style="margin:3px;" onclick="onbuttonclick('getDocName')">取文件名</button>
+            <button style="margin:3px;" onclick="onbuttonclick('createTaskPane')">创建任务窗格</button>
+            <button style="margin:3px;" onclick="onbuttonclick('newDoc')">新建文件</button>
+            <button style="margin:3px;" onclick="onbuttonclick('addString')">文档开头添加字符串</button>
+            <button style="margin:3px;" onclick="onbuttonclick('closeDoc')">关闭文件</button>
+        </div>
+        <hr>
+        <div class="divItem">文档文件名为：<span id="text_p"></span></div>
+    </div>
+</body>
+
+<style>
+    .global {
+        font-size: 15px;
+        min-height: 95%;
+    }
+
+    .divItem {
+        margin-left: 5px;
+        margin-bottom: 18px;
+        font-size: 15px;
+        word-wrap: break-word;
+    }
+</style>
+<script>
+
+</script>
+
+</html>
