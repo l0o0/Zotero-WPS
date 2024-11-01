@@ -8,3 +8,6 @@ https://gitee.com/wangrui5015/Zotero-WPSJS
 2、原来tankwyn版本，只能使用旧版本WPS（Win和linux），不能使用最新版本WPS：
 
 https://github.com/tankwyn/WPS-Zotero
+
+
+Zotero-WPS插件交流QQ群：1029775161。
