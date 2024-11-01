@@ -10,4 +10,4 @@ https://gitee.com/wangrui5015/Zotero-WPSJS
 https://github.com/tankwyn/WPS-Zotero
 
 
-Zotero-WPS插件交流QQ群：1029775161。
+3、Zotero-WPS插件交流QQ群：1029775161。
