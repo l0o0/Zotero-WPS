@@ -1,6 +1,6 @@
 Zotero-WPS插件
 
-1、wangrui5015修改版本，可以使用最新版本的Win WPS：
+1、wangrui5015修改版本，可以使用最新版本的Win和linux版本WPS：
 
 https://gitee.com/wangrui5015/Zotero-WPSJS
 
