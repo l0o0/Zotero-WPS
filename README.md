@@ -10,7 +10,7 @@ https://gitee.com/wangrui5015/Zotero-WPSJS
 https://github.com/tankwyn/WPS-Zotero
 
 
-3、Zotero 中文社区，由志愿者组成的 Zotero 中文小组，我们主要维护 Zotero 中文文档、中文社区生态等。
+3、Zotero 中文社区，由志愿者组成的 Zotero 中文小组，主要维护 Zotero 中文文档、中文社区生态等。
 
 https://zotero-chinese.com/
 
