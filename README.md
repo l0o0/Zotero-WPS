@@ -15,4 +15,4 @@ https://github.com/tankwyn/WPS-Zotero
 https://zotero-chinese.com/
 
 
-4、Zotero-WPS插件交流QQ群：1029775161(已满)，739198158(已满),735449402。
+4、Zotero-WPS插件交流QQ群：1029775161(已满)，739198158(已满)，735449402。
